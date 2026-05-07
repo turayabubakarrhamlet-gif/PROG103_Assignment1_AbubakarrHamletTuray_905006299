@@ -1,2 +1,0 @@
-# PROG103_Assignment1_AbubakarrHamletTuray_905006299
-Student Attendance Tracking System - PROG103 Assignment
